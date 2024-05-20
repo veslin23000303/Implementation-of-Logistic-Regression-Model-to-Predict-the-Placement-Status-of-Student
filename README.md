@@ -9,12 +9,19 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Algorithm
 1.Import the python library pandas
+
 2.Read the dataset of Placement_Data
+
 3.Copy the dataset in data1
+
 4.Remove the columns which have null values using drop()
+
 5.Import the LabelEncoder for preprocessing of the dataset
+
 6.Assign x and y as status column values
+
 7.From sklearn library select the model to perform Logistic Regression
+
 8.Print the accuracy, confusion matrix and classification report of the dataset
 
 ## Program:
