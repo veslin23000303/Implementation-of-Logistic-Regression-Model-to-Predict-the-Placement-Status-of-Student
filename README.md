@@ -28,8 +28,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: PULI NAGA NEERAJ
-RegisterNumber:  212223240130
+Developed by: VESLIN ANISH A
+RegisterNumber:  212223240175
 */
 ```
 ```
@@ -98,20 +98,18 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![ML-4 1](https://github.com/PuliNagaNeeraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849173/67063aae-b0e0-4594-b2fd-7b439427a646)
-![ML-4 2](https://github.com/PuliNagaNeeraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849173/1098eec3-1710-4fe1-a88e-9f22b596cb9a)
-![ML-4 3](https://github.com/PuliNagaNeeraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849173/f8b05009-c740-4e81-9fb9-8ada95355687)
-![ML-4 4](https://github.com/PuliNagaNeeraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849173/326a3a85-4c44-4b3e-8c0c-c889d96e550c)
-![ML-4 5](https://github.com/PuliNagaNeeraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849173/1e98bf2e-7e67-4100-8f1f-b43dabd9d018)
-![ML-4 6](https://github.com/PuliNagaNeeraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849173/98d6a399-86b0-4df3-95e1-c3fe38a78c73)
+![Screenshot 2024-09-20 103142](https://github.com/user-attachments/assets/98dc7376-e703-4b12-aa1a-2182ab9b96a2)
+![Screenshot 2024-09-20 103148](https://github.com/user-attachments/assets/ed111c55-6674-483a-a315-256d0d985f16)
+![Screenshot 2024-09-20 103217](https://github.com/user-attachments/assets/c1e32067-eab8-446d-b388-d59ddaeb461c)
+![Screenshot 2024-09-20 103238](https://github.com/user-attachments/assets/10aa5cf5-38bd-4a40-9374-cb5b1f096826)
+![Screenshot 2024-09-20 103249](https://github.com/user-attachments/assets/4a722947-4a09-4494-b7ec-3e7ea4b1a507)
+![Screenshot 2024-09-20 103258](https://github.com/user-attachments/assets/761afe6b-3585-447f-9360-6b3b4676ef60)
+![Screenshot 2024-09-20 103305](https://github.com/user-attachments/assets/6ad2f896-642d-498a-a46e-6e3313af8ba3)
+![Screenshot 2024-09-20 103309](https://github.com/user-attachments/assets/f317a9c7-acc6-4d88-af72-d0b8f3d55c31)
 
-![ML-4 7](https://github.com/PuliNagaNeeraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849173/40dbbbf6-4a26-44f1-856a-5b0b9ce52033)
 
-![ML-4 8](https://github.com/PuliNagaNeeraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849173/ab97b1d0-605e-48a8-824f-676f78f84666)
 
-![ML-4 9](https://github.com/PuliNagaNeeraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849173/9090e09b-e103-449f-ba4b-9ab24ba7e50b)
 
-![ml-4 10](https://github.com/PuliNagaNeeraj/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/138849173/125fbfdc-cf85-47f1-bb52-d49ebd3cf15a)
 
 
 
